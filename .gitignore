@@ -3,3 +3,5 @@ cabal.sandbox.config
 dist
 .env
 .anvil
+/dist-newstyle/
+.ghc.environment.*
